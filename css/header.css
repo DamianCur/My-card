@@ -1,4 +1,5 @@
-.header__banner{
+.header__container{
+    background-color: teal;
     width: auto;
-    height: 200px;
+    height: 150px;
 }

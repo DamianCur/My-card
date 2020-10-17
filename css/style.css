@@ -1,8 +1,9 @@
-html{
+html {
     box-sizing: inherit;
     font-family: 'Lato', sans-serif;
+    background-color: #E7E7E7;
 }
 
-*, ::before, ::after{
+*, ::before, ::after {
     box-sizing: inherit;
 }
