@@ -1,5 +1,6 @@
 html{
     box-sizing: inherit;
+    font-family: 'Lato', sans-serif;
 }
 
 *, ::before, ::after{
