@@ -1,9 +1,14 @@
 html {
-    box-sizing: inherit;
-    font-family: 'Lato', sans-serif;
-    background-color: #E7E7E7;
+    box-sizing: border-box;
 }
 
 *, ::before, ::after {
     box-sizing: inherit;
+}
+
+body {
+    font-family: 'Lato', sans-serif;
+    background-color: #E7E7E7;
+    max-width: 960px;
+    margin: 0 auto;
 }
