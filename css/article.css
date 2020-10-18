@@ -7,14 +7,17 @@
     margin-top: 100px;
 }
 
-.article__header {
+.article__header__aboutMe {
     font-weight: bold;
     padding: 10px 0 10px 10px;
     font-size: 35px;
+    text-align: center;
+    border-bottom: 1px solid #222222;
+    margin: 0 100px 0 100px;
 }
 
-.article__paragraph{
-padding: 0 10px 10px 10px;
-font-size: 20px;
-letter-spacing: 1px;
+.article__paragraph {
+    padding: 40px 10px 10px 10px;
+    font-size: 20px;
+    letter-spacing: 1px;
 }

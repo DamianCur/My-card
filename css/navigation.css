@@ -21,3 +21,8 @@
     text-decoration: underline;
     cursor: pointer;
 }
+
+.navigation__link{
+    text-decoration: none;
+    color: black;
+    }

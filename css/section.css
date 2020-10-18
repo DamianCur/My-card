@@ -14,3 +14,13 @@
     padding: 0 70px 0 70px;
     font-weight: bold;
 }
+
+.section__containerImage{
+    text-align: center;
+}
+
+.section__image{
+    border-radius: 0px;
+    height: 250px;
+    border-radius: 0px;
+}
