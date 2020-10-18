@@ -4,6 +4,7 @@
     height: 100px;
     text-align: center;
     padding: 33.3333px;
+    border-radius: 5px;
 }
 
 .nav__item {
