@@ -1,3 +1,20 @@
-.article__aboutMe{
-    font-weight: 900;
+.article__container {
+    margin: auto;
+    max-height: fit-content;
+    background-color: rgba(255, 255, 255, 0.747);
+    border-radius: 5px;
+    max-width: 80%;
+    margin-top: 100px;
+}
+
+.article__header {
+    font-weight: bold;
+    padding: 10px 0 10px 10px;
+    font-size: 35px;
+}
+
+.article__paragraph{
+padding: 0 10px 10px 10px;
+font-size: 20px;
+letter-spacing: 1px;
 }
