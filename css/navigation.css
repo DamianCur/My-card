@@ -17,12 +17,17 @@
     letter-spacing: 1px;
 }
 
-.navigation__item:hover{
-    text-decoration: underline;
-    cursor: pointer;
-}
-
-.navigation__link{
+.navigation__link {
     text-decoration: none;
     color: black;
-    }
+}
+
+.navigation__link:hover {
+    text-decoration: underline;
+    color: #D4F0FD;
+}
+
+.navigation__link:active{
+    color: #ffffff;
+}
+
