@@ -16,8 +16,18 @@
     margin: 0 100px 0 100px;
 }
 
+.article__containerImage {
+    text-align: center;
+}
+
+.article__image {
+    border-radius: 45%;
+    height: 300px;
+    padding: 40px 0 40px 0;
+}
+
 .article__paragraph {
-    padding: 40px 10px 10px 10px;
+    padding: 0 10px 10px 10px;
     font-size: 20px;
     letter-spacing: 1px;
 }
