@@ -7,7 +7,6 @@
     margin-top: 100px;
 }
 
-
 .article__header__aboutMe {
     font-weight: bold;
     padding: 10px 0 10px 10px;
@@ -31,4 +30,13 @@
     padding: 0 10px 10px 10px;
     font-size: 20px;
     letter-spacing: 1px;
+    text-indent: 10vh;
+    font-weight: 600;
+}
+
+.article__paragraph--welcome {
+    padding: 0 10px 10px 10px;
+    font-size: 20px;
+    letter-spacing: 1px;
+    font-weight: 600;
 }
