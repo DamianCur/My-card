@@ -51,4 +51,7 @@
     padding: 20px;
 }
 
-
+.article__link{
+    border: 1px solid black;
+    position: relative;
+}
