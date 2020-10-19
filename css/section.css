@@ -1,18 +1,16 @@
+.section{
+    font-size: 3vh;
+}
+
 .section__strong {
     color: red;
-    font-size: 40px;
 }
 
 .section__h2 {
-    font-size: 30px;
     text-align: center;
     letter-spacing: 5px;
 }
 
 .section__span {
     padding: 0 20px 0 20px;
-    font-weight: bold;
 }
-
-
-
