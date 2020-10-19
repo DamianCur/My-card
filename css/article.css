@@ -39,3 +39,13 @@
     letter-spacing: 1px;
     font-weight: 600;
 }
+
+.article__container--gif{
+    max-height: fit-content;
+    text-align: center;
+}
+
+.article__gif{
+    max-height: 250px;
+    max-width: 250px;
+}
