@@ -40,12 +40,25 @@
     font-weight: 600;
 }
 
-.article__container--gif{
+.article__container--gif {
     max-height: fit-content;
     text-align: center;
 }
 
-.article__gif{
+.article__gif {
     max-height: 250px;
     max-width: 250px;
+    padding: 20px;
+}
+
+.article__gif:hover {
+    cursor: pointer;
+    height: 300px;
+    width: 600px;
+}
+
+.button {
+    max-height: 250px;
+    max-width: 250px;
+    padding: 20px;
 }
