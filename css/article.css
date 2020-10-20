@@ -43,7 +43,8 @@
 .article__container--gif {
     max-height: fit-content;
     text-align: center;
-}
+    display: flex;
+    }
 
 .article__gif {
     max-height: 250px;
@@ -51,7 +52,22 @@
     padding: 20px;
 }
 
-.article__link{
-    border: 1px solid black;
-    position: relative;
+.article__button {
+    text-align: center;
+    background-color: teal;
+    border: none;
+    border-radius: 3px;
+    padding: 5px;
+    width: 100px;
+}
+
+.article__button__link {
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.article__button__link:hover{
+    text-decoration: underline;
 }
