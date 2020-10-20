@@ -4,7 +4,7 @@
     background-color: rgba(255, 255, 255, 0.747);
     border-radius: 5px;
     max-width: 80%;
-    margin-top: 100px;
+    margin-top: 10px;
 }
 
 .article__header {
@@ -26,11 +26,12 @@
 }
 
 .article__paragraph {
-    padding: 0 10px 10px 10px;
+    padding: 0 10px 30px 10px;
     font-size: 20px;
     letter-spacing: 1px;
     text-indent: 10vh;
     font-weight: 600;
+    margin-bottom: 50px;
 }
 
 .article__paragraph--welcome {
@@ -40,11 +41,15 @@
     font-weight: 600;
 }
 
-.article__container--gif {
+.article__container {
     max-height: fit-content;
     text-align: center;
     display: flex;
-    }
+}
+
+.article__container--gif{
+    max-width: fit-content;
+}
 
 .article__gif {
     max-height: 250px;
@@ -58,16 +63,16 @@
     border: none;
     border-radius: 3px;
     padding: 5px;
-    width: 100px;
+    width: 120px;
 }
 
 .article__button__link {
     text-decoration: none;
     color: black;
-    font-size: 20px;
+    font-size: 18px;
     font-weight: bold;
 }
 
-.article__button__link:hover{
+.article__button__link:hover {
     text-decoration: underline;
 }
