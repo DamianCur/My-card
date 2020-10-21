@@ -45,6 +45,7 @@
     max-width: fit-content;
     text-align: center;
     display: flex;
+    padding-bottom: 50px;
 }
 
 .article__container--gif {
