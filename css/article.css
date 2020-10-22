@@ -63,13 +63,12 @@
     border: none;
     border-radius: 3px;
     padding: 10px;
-    width: 20vh;
+    width: 40vh;
 }
 
 .article__button__link {
     text-decoration: none;
     color: black;
-    font-size: 18px;
     font-weight: bold;
     width: 20vh;
     font-size: 24px;
