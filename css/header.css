@@ -1,0 +1,22 @@
+.header {
+    font-size: 3vh;
+}
+
+.header__strong {
+    color: red;
+}
+
+.header__h2 {
+    text-align: center;
+    letter-spacing: 5px;
+    margin: 0;
+}
+
+.header__span {
+    padding: 0 20px 0 20px;
+}
+
+.header__container {
+    background-color: rgba(117, 117, 117, 0.445);
+    margin: 0;
+}
