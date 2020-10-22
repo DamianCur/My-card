@@ -5,6 +5,7 @@
     padding: 33.3333px;
     border-radius: 10px;
     margin: 0 auto;
+    max-width: 1200px;
 }
 
 .navigation__item {

@@ -1,15 +1,13 @@
 .header__strong {
-    
+    font-family: roboto sans-serif;
 }
 
 .header__h2 {
     text-align: center;
     letter-spacing: 5px;
     margin: 0;
-}
-
-.header__span {
-    padding: 0 20px 0 20px;
+    font-size: 30px;
+    
 }
 
 .header__container {
