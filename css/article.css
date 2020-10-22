@@ -63,7 +63,8 @@
     border: none;
     border-radius: 3px;
     padding: 10px;
-    width: 40vh;
+    max-width: 30vh;
+    min-width: 30vh;
 }
 
 .article__button__link {
