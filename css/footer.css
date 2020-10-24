@@ -13,6 +13,10 @@
     display: block;
 }
 
+.footer__container--contactData{
+    text-align: end;
+}
+
 .footer__contactData {
     margin: 0;
     padding: 20px 0 20px 10px;
@@ -22,4 +26,5 @@
 
 .footer__copyrights {
     margin: 0;
+    display: inline-block;
 }
