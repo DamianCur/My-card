@@ -1,12 +1,25 @@
-.footer__container{
+.footer__container {
     background-color: rgba(117, 117, 117, 0.267);
-    border-radius: 5px;    
-    display: flex;
-    justify-content: center;
-    padding: 15px;
+    border-radius: 5px;
 }
 
-.footer__copyrights{
-    
-    
+.footer__header{
+    text-decoration: underline;
+    padding-left: 10px;
+}
+
+.footer__container--copyrights {
+    text-align: center;
+    display: block;
+}
+
+.footer__contactData {
+    margin: 0;
+    padding: 20px 0 20px 10px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.footer__copyrights {
+    margin: 0;
 }
