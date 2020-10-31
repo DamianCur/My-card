@@ -5,16 +5,20 @@
 .header__h2 {
     text-align: center;
     letter-spacing: 5px;
-    margin: 0;
     font-size: 30px;
-    
 }
 
 .header__container {
     background-color: rgba(117, 117, 117, 0.267);
-    margin: 0;    
     border-radius: 5px;
     padding: 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+
+.header__container__h2 {
+    
 }
 
 .header__container__button{
