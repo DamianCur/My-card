@@ -1,26 +1,15 @@
-.header__strong {
-    font-family: roboto sans-serif;
-}
-
-.header__h2 {
-    text-align: center;
-    letter-spacing: 5px;
-    font-size: 30px;
-}
-
 .header__container {
     background-color: rgba(117, 117, 117, 0.267);
-    border-radius: 5px;
+    border-radius: 30px;
     padding: 15px;
     display: flex;
-    justify-content: space-between;
-    align-items: flex-end;
+    justify-content: center;
+    align-items: center;
 }
 
-.header__container__h2 {
+.header__button{
+
     
 }
 
-.header__container__button{
-    
-}
+
