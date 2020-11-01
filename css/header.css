@@ -7,9 +7,13 @@
     align-items: center;
 }
 
-.header__button{
-
-    
+.header__button {
+    margin-right: 5%;
 }
 
+.header__h2 {
+    flex: 1 2;
+    padding-left: 46%;
+    font-family: 'Roboto', sans-serif;
 
+}
