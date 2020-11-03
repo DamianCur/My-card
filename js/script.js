@@ -1,5 +1,8 @@
-function darkFunction() {
-    let element = document.getElementById("darkBody");
-    element.classList.toogle("darkBody");
-}
 
+
+let headerButton = document.querySelector(".header__button");
+let body = document.querySelector(".body");
+
+headerButton.addEventListener("click", () => {
+    body.classList.toggle("js__body");
+});
