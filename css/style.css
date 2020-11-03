@@ -13,4 +13,9 @@ body {
     background-image: url(../img/background2.png);
 }
 
+
+.js__body{
+    background-image: url(../img/bacground__darker.jpg);
+}
+
 /*body color --> #5F6C72*/
