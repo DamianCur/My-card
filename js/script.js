@@ -8,3 +8,12 @@ headerButton.addEventListener("click", () => {
     body.classList.toggle("js__body");
 });
 
+headerButton.addEventListener("click", () => {
+    if (headerButton.innerText === "Motyw ciemny") {
+        headerButton.innerText = "Motyw jasny";
+    }
+    else {
+        headerButton.innerText = "Motyw ciemny";
+    }
+
+});
