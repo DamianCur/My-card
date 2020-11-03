@@ -102,6 +102,17 @@
     background-color: black;
 }
 
+.js__article{
+    margin: auto;
+    max-height: fit-content;
+    background-color: #5F6C72;
+    border-radius: 5px;
+    max-width: 100%;
+    margin-top: 10px;
+    max-width: 1200px;
+    color: whitesmoke;
+}
+
 
 @media (max-width: 1024px) {
     .article__container {

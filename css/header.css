@@ -1,7 +1,7 @@
 .header__container {
-    background-color: rgba(117, 117, 117, 0.267);
+    background-color: rgba(151, 151, 151, 0.678);
     border-radius: 30px;
-    padding: 15px;
+    padding: 25px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -15,5 +15,7 @@
     flex: 1 2;
     padding-left: 46%;
     font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+    margin: auto;
 
 }
